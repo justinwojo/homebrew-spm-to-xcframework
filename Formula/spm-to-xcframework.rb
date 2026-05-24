@@ -4,7 +4,7 @@ class SpmToXcframework < Formula
   desc "Convert Swift Package Manager packages into prebuilt XCFrameworks"
   homepage "https://github.com/justinwojo/spm-to-xcframework"
   url "https://github.com/justinwojo/spm-to-xcframework/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "892520bf8d8dfd1f430e181cd5a1280aba61c42b5ece75d9436a041b115eb8cc"
+  sha256 "1de241e3a849b963b002cd04c3e46e106e8b02fa9138478524e16e6333c0ee13"
   license "MIT"
 
   # macOS-only: the tool drives `xcodebuild` to produce .xcframeworks.
